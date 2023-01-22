@@ -1,4 +1,4 @@
-# ** Does the use of prediction equations to correct self-reported height and weight improve obesity prevalence estimates? A pooled cross-sectional analysis of Health Survey for England data**
+# Does the use of prediction equations to correct self-reported height and weight improve obesity prevalence estimates? A pooled cross-sectional analysis of Health Survey for England data
 Shaun Scholes<sup>1</sup>, Linda Ng Fat<sup>1</sup>, Alison Moody<sup>1</sup>, Jennifer S Mindell<sup>1</sup> 
 
 *BMJ Open*. 2023;13:e061809.     
